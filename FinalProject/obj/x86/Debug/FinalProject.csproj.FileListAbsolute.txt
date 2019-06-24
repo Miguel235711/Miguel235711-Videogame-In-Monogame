@@ -1,0 +1,374 @@
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csprojAssemblyReference.cache
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CopyComplete
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.exe
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.pdb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBackStand\LinkBackStand_f01.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f01.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f02.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f03.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f04.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f05.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f06.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f07.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f08.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFrontStand\LinkFrontStand_f01.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f01.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f02.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f03.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f04.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f05.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f06.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f07.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f08.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkLeft\LinkLeft_f01.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\HeroSprite.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\kid.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\no transversable map with transparency.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\transversable map with transparency.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\wholemap.xnb
+D:\OOP\FinalProject\Code\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Fonts\font.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Fonts\font.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBackStand\LinkBackStand_f01.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f01.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f02.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f03.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f04.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f05.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f06.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f07.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f08.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFrontStand\LinkFrontStand_f01.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f01.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f02.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f03.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f04.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f05.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f06.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f07.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f08.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkLeft\LinkLeft_f01.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\HeroSprite.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\kid.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\no transversable map with transparency.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\transversable map with transparency.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\wholemap.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CopyComplete
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\NoTransitable1.xnb
+C:\Users\AARON\Desktop\Videogame-In-Monogame\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Transitable1.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Fonts\font.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBackStand\LinkBackStand_f01.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f01.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f02.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f03.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f04.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f05.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f06.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f07.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f08.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFrontStand\LinkFrontStand_f01.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f01.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f02.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f03.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f04.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f05.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f06.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f07.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f08.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkLeft\LinkLeft_f01.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\HeroSprite.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\kid.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\no transversable map with transparency.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\transversable map with transparency.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\wholemap.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\NoTransitable1.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Transitable1.xnb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csprojAssemblyReference.cache
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CopyComplete
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.exe
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.pdb
+D:\OOP\FinalProject\Code\V2\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Box\Box.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Fonts\font.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBackStand\LinkBackStand_f01.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f01.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f02.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f03.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f04.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f05.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f06.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f07.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f08.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFrontStand\LinkFrontStand_f01.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f01.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f02.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f03.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f04.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f05.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f06.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f07.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f08.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Box\Box.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkLeft\LinkLeft_f01.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\HeroSprite.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\kid.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\no transversable map with transparency.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\transversable map with transparency.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\wholemap.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\NoTransitable1.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Transitable1.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.csproj.CopyComplete
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\llave.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Key\llave.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Progress\ProgressBar.xnb
+C:\Users\AARON\Desktop\FinalProjectVisualStudio\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Progress\ProgressFill.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\obj\x86\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Progress\ProgressBar.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Progress\ProgressFill.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\llave.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\NuevoJuego.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\ReanudarJuego.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Salir.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Fonts\font.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBackStand\LinkBackStand_f01.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f01.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f02.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f03.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f04.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f05.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f06.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f07.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f08.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFrontStand\LinkFrontStand_f01.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f01.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f02.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f03.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f04.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f05.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f06.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f07.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f08.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Box\Box.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkLeft\LinkLeft_f01.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\HeroSprite.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\kid.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\wholemap.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\NoTransitable1.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\Transitable1.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Key\llave.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyBack.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyFront.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyLeft.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyRight.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\M1.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map2\Mapa2Vista.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map2\NoTransitable2.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map2\Transitable2.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\M3.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\NoTransitable3.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\cinco.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\cuatro.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\diezyseis.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\dos.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\nueve.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\ocho.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\seis.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\siete.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\tres.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\uno.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Menu\NuevoJuego.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Menu\ReanudarJuego.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Menu\Salir.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AARON\Desktop\V3\FinalProject\obj\x86\Debug\FinalProject.csproj.CopyComplete
+C:\Users\AARON\Desktop\V3\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\AARON\Desktop\V3\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\AARON\Desktop\V3\FinalProject\obj\x86\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\MenuPrincipal.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\ReiniciarNivel.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\GameOver\MenuPrincipal.xnb
+C:\Users\AARON\Desktop\V3\FinalProject\bin\Windows\x86\Debug\Content\Sprites\GameOver\ReiniciarNivel.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Progress\ProgressBar.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Progress\ProgressFill.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\llave.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\MenuPrincipal.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\NuevoJuego.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\ReanudarJuego.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\ReiniciarNivel.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Salir.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Fonts\font.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBackStand\LinkBackStand_f01.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f01.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f02.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f03.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f04.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f05.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f06.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f07.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkBack\LinkBack_f08.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFrontStand\LinkFrontStand_f01.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f01.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f02.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f03.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f04.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f05.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f06.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f07.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkFront\LinkFront_f08.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Box\Box.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Content - Link in XNB\LinkLeft\LinkLeft_f01.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\HeroSprite.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\HeroSprite\kid.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\wholemap.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\NoTransitable1.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\Transitable1.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Key\llave.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyBack.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyFront.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyLeft.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\enemy\EnemyRight.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\M1.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map2\Mapa2Vista.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map2\NoTransitable2.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map2\Transitable2.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\M3.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\NoTransitable3.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\cinco.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\cuatro.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\diezyseis.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\dos.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\nueve.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\ocho.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\seis.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\siete.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\tres.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map3\items\uno.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Menu\NuevoJuego.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Menu\ReanudarJuego.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Menu\Salir.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\GameOver\MenuPrincipal.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\GameOver\ReiniciarNivel.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Juan\Desktop\V6\V5\FinalProject\obj\x86\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\V6\V5\FinalProject\obj\x86\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\V6\V5\FinalProject\obj\x86\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Juan\Desktop\V6\V5\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\Juan\Desktop\V6\V5\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Mapa1.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\Mapa1.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Mapa1-Recuperado.xnb
+C:\Users\Juan\Desktop\V6\V5\FinalProject\bin\Windows\x86\Debug\Content\Sprites\Map\Map1\Mapa1-Recuperado.xnb

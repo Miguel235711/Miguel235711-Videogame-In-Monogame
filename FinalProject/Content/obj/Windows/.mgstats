@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/llave.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/llave.xnb","TextureProcessor","Texture2DContent",174939,6170353,0.4697525
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/Mapa1.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/Mapa1.xnb","TextureProcessor","Texture2DContent",7857850,13608085,0.7569751
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/Mapa1-Recuperado.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/Mapa1-Recuperado.xnb","TextureProcessor","Texture2DContent",7839165,13608085,0.8284119
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/MenuPrincipal.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/MenuPrincipal.xnb","TextureProcessor","Texture2DContent",6963,267053,0.0339111
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/NuevoJuego.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/NuevoJuego.xnb","TextureProcessor","Texture2DContent",6484,267657,0.0119662
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/ReanudarJuego.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/ReanudarJuego.xnb","TextureProcessor","Texture2DContent",6896,267657,0.0149595
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/ReiniciarNivel.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/ReiniciarNivel.xnb","TextureProcessor","Texture2DContent",6972,267657,0.0130457
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/Salir.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/Salir.xnb","TextureProcessor","Texture2DContent",4786,267657,0.0154409
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/Sprites/Progress/ProgressBar.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/Sprites/Progress/ProgressBar.xnb","TextureProcessor","Texture2DContent",508,150613,0.0089756
+"C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/Sprites/Progress/ProgressFill.png","C:/Users/Juan/Desktop/V6/V5/FinalProject/Content/bin/Windows/Sprites/Progress/ProgressFill.xnb","TextureProcessor","Texture2DContent",497,113629,0.0319155

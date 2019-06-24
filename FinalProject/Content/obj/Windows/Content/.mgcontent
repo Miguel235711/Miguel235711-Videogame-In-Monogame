@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/llave.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/Mapa1.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/Mapa1-Recuperado.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/MenuPrincipal.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/NuevoJuego.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/ReanudarJuego.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/ReiniciarNivel.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/Salir.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/Sprites/Progress/ProgressBar.png</File>
+    <File>D:/OOP/Final Project/V5/FinalProject/Content/Sprites/Progress/ProgressFill.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

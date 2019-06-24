@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/OOP/Final Project/V5/FinalProject/Content/llave.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/llave.xnb","TextureProcessor","Texture2DContent",174939,6170353,0.7713069
+"D:/OOP/Final Project/V5/FinalProject/Content/Mapa1.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/Mapa1.xnb","TextureProcessor","Texture2DContent",7857850,13608085,0.6133608
+"D:/OOP/Final Project/V5/FinalProject/Content/Mapa1-Recuperado.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/Mapa1-Recuperado.xnb","TextureProcessor","Texture2DContent",7839165,13608085,0.5087463
+"D:/OOP/Final Project/V5/FinalProject/Content/MenuPrincipal.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/MenuPrincipal.xnb","TextureProcessor","Texture2DContent",6963,267053,0.0393674
+"D:/OOP/Final Project/V5/FinalProject/Content/NuevoJuego.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/NuevoJuego.xnb","TextureProcessor","Texture2DContent",6484,267657,0.009341
+"D:/OOP/Final Project/V5/FinalProject/Content/ReanudarJuego.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/ReanudarJuego.xnb","TextureProcessor","Texture2DContent",6896,267657,0.0222256
+"D:/OOP/Final Project/V5/FinalProject/Content/ReiniciarNivel.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/ReiniciarNivel.xnb","TextureProcessor","Texture2DContent",6972,267657,0.0185858
+"D:/OOP/Final Project/V5/FinalProject/Content/Salir.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/Salir.xnb","TextureProcessor","Texture2DContent",4786,267657,0.0119824
+"D:/OOP/Final Project/V5/FinalProject/Content/Sprites/Progress/ProgressBar.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/Sprites/Progress/ProgressBar.xnb","TextureProcessor","Texture2DContent",508,150613,0.0079001
+"D:/OOP/Final Project/V5/FinalProject/Content/Sprites/Progress/ProgressFill.png","D:/OOP/Final Project/V5/FinalProject/Content/bin/Windows/Content/Sprites/Progress/ProgressFill.xnb","TextureProcessor","Texture2DContent",497,113629,0.0059991
